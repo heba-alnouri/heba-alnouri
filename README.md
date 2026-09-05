@@ -82,7 +82,7 @@ My work focuses on making that structure computationally accessible.
 
 ## Engineering
 
-`Python` · `TypeScript` · `Java` · `React` · `Django` · `AWS` · `Bedrock` · `LangChain` · `pytest` · `Jest` · `JUnit`
+`Python` · `TypeScript` · `React` · `Django` · `pytest` · `Jest`
 
 I build production software as well as language-focused systems, with a particular interest in applying strong software engineering practices to Arabic NLP.
 
